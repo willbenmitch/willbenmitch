@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi 👋
 
-<!--
-**willbenmitch/willbenmitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ben, a software engineer from Toronto.
 
-Here are some ideas to get you started:
+I excel at bridging the gap between product and engineering, ensuring that engineering decisions are product-driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I currently am working on the following:
+- Technical Lead (full-time) at Scotiabank - working on unauthenticated marketing efforts
+- Instructor (part-time) at Brainstation
+
+Formerly an operations manager in the technology sector, I was drawn to the world of development while working alongside the engineering team at Miovision. I am experienced building Full Stack software applications for small-to-medium organizations that solve complex problems.
+
+I believe in building applications with the end user in mind; making sure applications are usable, useful, and accessible.
+
